@@ -1,0 +1,21 @@
+:root{
+    --main-color : #001e9b ;
+    --second-color : #8db6ff ;
+
+}
+
+body{
+    color: #fafafa;
+    font-family: 'Lobster', cursive;
+}
+
+h1{
+    color: var(--main-color);
+
+}
+
+
+.flow{
+    /* padding-right: 10rem; */
+    color: var(--second-color);
+}
